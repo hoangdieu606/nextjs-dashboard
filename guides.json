@@ -1318,7 +1318,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy các đơn vị Chem Baron bị mất tích."
+          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy mất các đơn vị Chem Baron khỏi vòng quay."
         },
         {
           "stage": "Giai đoạn 3",
@@ -3809,7 +3809,7 @@
           "id": "qtahcilkp9rdkxy"
         }
       ],
-      "augmentsTip": "Biến thể Steb Hero Augment của 8 Enforcers. Đặt Maddie ở phía đối diện với carry. Đặt Vi ở phía trước các đơn vị địch quan trọng. Ưu tiên Anamoly: Steb 4* (Ultimate Hero)",
+      "augmentsTip": "Biến thể Steb Hero Augment của 8 Enforcers. Đặt Maddie ở phía đối diện với các carry. Đặt Vi ở phía trước các đơn vị địch quan trọng. Ưu tiên Anamoly: Steb 4* (Ultimate Hero)",
       "carousel": [
         {
           "apiName": "TFT_Item_Bloodthirster",
@@ -7358,7 +7358,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Sentinel và Tristana 2. Tăng lại kinh tế. Hoàn thành 3 vật phẩm Tristana."
+          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Sentinel và Tristana 2. Tăng lại kinh tế. Hoàn thành 3 món đồ Tristana."
         },
         {
           "stage": "Giai đoạn 4",
@@ -7570,7 +7570,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và tung Ziggs 2 + Scrap và nâng cấp tiền tuyến. Nếu bạn có nhiều bản sao Ziggs, bạn có thể tung chậm ở cấp 6 nếu không thì tăng kinh tế lên cấp 7."
+          "tip": "Lên cấp 6 và tung Ziggs 2 + Scrap và nâng cấp tiền tuyến. Nếu bạn có nhiều bản sao Ziggs, bạn có thể tung chậm ở cấp 6 nếu không thì tăng kinh tế ở cấp 7."
         },
         {
           "stage": "Giai đoạn 4",
@@ -7788,7 +7788,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Tấn công các vật phẩm có nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
+          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Đập các vật phẩm có nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
         },
         {
           "stage": "Giai đoạn 3",
@@ -10180,7 +10180,7 @@
           "id": "hp8qq1562dqopt7"
         }
       ],
-      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang winstreaking. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
+      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang thắng liên tiếp. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
       "carousel": [
         {
           "apiName": "TFT_Item_BlueBuff",
@@ -11411,7 +11411,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8, tung xúc xắc để lấy Ezreal, Corki và 4 Sentinel. Đẩy cấp 9 khi bạn ổn định ở cấp 8. Nếu bạn giàu, bạn có thể giữ thêm Ezreal để cuối cùng đạt 3*."
+          "tip": "Lên cấp 8, tung xúc xắc để lấy Ezreal, Corki và 4 Sentinel. Lên cấp 9 khi bạn ổn định ở cấp 8. Nếu bạn giàu, bạn có thể giữ thêm Ezreal để cuối cùng đạt 3*."
         }
       ],
       "title": "Bão Ezreal",
