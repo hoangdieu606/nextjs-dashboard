@@ -1318,7 +1318,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy các đơn vị Chem Baron bị mất tích."
+          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy mất các đơn vị Chem Baron khỏi vòng quay."
         },
         {
           "stage": "Giai đoạn 3",
@@ -2191,7 +2191,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Nâng cấp lên 4 Pit Fighter nếu bạn chưa nâng cấp. Nâng cấp lên 6 để nâng cấp nếu cần, nếu không hãy tích lũy để nâng cấp lên Fast 8."
+          "tip": "Nâng cấp lên 4 Pit Fighter nếu bạn chưa nâng cấp. Tăng lên 6 để nâng cấp nếu cần, nếu không hãy tích lũy để nâng cấp lên Fast 8."
         },
         {
           "stage": "Giai đoạn 4",
@@ -3809,7 +3809,7 @@
           "id": "qtahcilkp9rdkxy"
         }
       ],
-      "augmentsTip": "Biến thể Steb Hero Augment của 8 Enforcers. Đặt Maddie ở phía đối diện với các carry. Đặt Vi ở phía trước các đơn vị địch quan trọng. Ưu tiên Anamoly: Steb 4* (Ultimate Hero)",
+      "augmentsTip": "Biến thể Steb Hero Augment của 8 Enforcers. Đặt Maddie ở phía đối diện với carry. Đặt Vi ở phía trước các đơn vị địch quan trọng. Ưu tiên Anamoly: Steb 4* (Ultimate Hero)",
       "carousel": [
         {
           "apiName": "TFT_Item_Bloodthirster",
@@ -3944,7 +3944,7 @@
           "tip": "Hoàn thành 3* và lên cấp 6 Enforcer. Các vật phẩm AD còn lại trên Maddie. Thêm một Bruiser bổ sung như Elise. Luôn chơi 8 Enforcer."
         }
       ],
-      "title": "Quân y chiến đấu - Người thực thi pháp luật",
+      "title": "Combat Medic - Người thực thi pháp luật",
       "updated": "2025-03-24 15:39:34.875Z"
     },
     {
@@ -9570,7 +9570,7 @@
           "id": "qtahcilkp9rdkxy"
         }
       ],
-      "augmentsTip": "Biến thể Steb Hero Augment của 6 Bruiser. Chơi biến thể này khi bạn không thể đánh trúng biểu tượng Enforcer. Nếu bạn đang tụt lại phía sau và không đủ khả năng tăng cấp với 5 chi phí, hãy cân nhắc việc đuổi theo Renni hoặc Nunu 3* làm tank phụ. Ưu tiên Anomaly: Steb 4* (Ultimate Hero)",
+      "augmentsTip": "Biến thể Steb Hero Augment của 6 Bruiser. Chơi biến thể này khi bạn không thể đánh trúng biểu tượng Enforcer. Nếu bạn đang tụt hậu và không đủ khả năng tăng cấp với 5 chi phí, hãy cân nhắc việc đuổi theo Renni hoặc Nunu 3* làm tank phụ. Ưu tiên Anomaly: Steb 4* (Ultimate Hero)",
       "carousel": [
         {
           "apiName": "TFT_Item_Bloodthirster",
@@ -10180,7 +10180,7 @@
           "id": "hp8qq1562dqopt7"
         }
       ],
-      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang thắng liên tiếp. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
+      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang winstreaking. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
       "carousel": [
         {
           "apiName": "TFT_Item_BlueBuff",
@@ -10316,7 +10316,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8 và tìm Heimer càng sớm càng tốt để có 6 Visionary. Rút tiền và lý tưởng nhất là tung Renni 3 và Heimer 2 ở 8. Nếu xa Renni 3, hãy tung 9 cho Nami/6 chi phí và Malzahar."
+          "tip": "Lên cấp 8 và tìm Heimer càng sớm càng tốt để có 6 Visionary. Rút tiền và lý tưởng nhất là tung Renni 3 và Heimer 2 ở cấp 8. Nếu xa Renni 3, hãy tung 9 cho Nami/6 chi phí và Malzahar."
         }
       ],
       "title": "Những người có tầm nhìn xa trông rộng về Chem Baron",
@@ -11032,7 +11032,7 @@
           "id": "kecuvqdtyt86tw4"
         }
       ],
-      "augmentsTip": "Biến thể thử nghiệm của 6 Sorceror tập trung vào Mundo tank và Zyra carry. Mạnh mẽ với các phép tăng cường như Moonlight để đảm bảo nâng cấp Zyra. Giữa trận, nếu tiền tuyến của bạn mạnh, bạn có thể chơi Swain 2 backline carry cho đến khi bạn chạm trán Leblanc. Ưu tiên Anomaly: Tank > Carry.",
+      "augmentsTip": "Biến thể thử nghiệm của 6 Sorceror tập trung vào Mundo tank và Zyra carry. Mạnh mẽ với các phép tăng cường như Moonlight để đảm bảo nâng cấp Zyra. Giữa trận, nếu tuyến trước của bạn mạnh, bạn có thể chơi Swain 2 backline carry cho đến khi bạn chạm trán Leblanc. Ưu tiên Anomaly: Tank > Carry.",
       "carousel": [
         {
           "apiName": "TFT_Item_SpearOfShojin",
