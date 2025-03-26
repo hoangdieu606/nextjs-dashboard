@@ -1318,7 +1318,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy mất các đơn vị Chem Baron khỏi vòng quay."
+          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy các đơn vị Chem Baron bị mất tích."
         },
         {
           "stage": "Giai đoạn 3",
@@ -3115,7 +3115,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8, tung xúc xắc cho Heimer và Corki. Điểm mạnh của đội hình này là có một bảng đấu giá rẻ + nâng cấp + vật phẩm có thể lên cấp 9. Luôn chơi Jayce và sử dụng Hextech Forge cho tuyến đầu. Kết hợp với Rumble 2."
+          "tip": "Lên cấp 8, tung xúc xắc cho Heimer và Corki. Điểm mạnh của đội hình này là có một bảng đấu giá rẻ + nâng cấp + vật phẩm có thể lên cấp 9. Luôn chơi Jayce và sử dụng Hextech Forge cho tuyến đầu. Lên cấp với Rumble 2."
         }
       ],
       "title": "Học viện Sentinel",
@@ -3518,7 +3518,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Watcher và Tristana 2. Tăng Econ. Bạn sẽ thắng hầu hết các trận đấu ở Giai đoạn 3."
+          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Watcher và Tristana 2. Tăng lại Econ. Bạn sẽ thắng hầu hết các trận đấu ở Giai đoạn 3."
         },
         {
           "stage": "Giai đoạn 4",
@@ -3944,7 +3944,7 @@
           "tip": "Hoàn thành 3* và lên cấp 6 Enforcer. Các vật phẩm AD còn lại trên Maddie. Thêm một Bruiser bổ sung như Elise. Luôn chơi 8 Enforcer."
         }
       ],
-      "title": "Combat Medic - Người thực thi pháp luật",
+      "title": "Quân y chiến đấu - Người thực thi pháp luật",
       "updated": "2025-03-24 15:39:34.875Z"
     },
     {
@@ -7000,7 +7000,7 @@
           "id": "tyik28kr44tmzmw"
         }
       ],
-      "augmentsTip": "Core: Twitch, Mundo, Nunu, Elise, Morgana. Caps cao nhất với Caitlyn 2 và Leblanc 2 itemized. Vị trí Sion và Elise hướng về phía carry của đối phương. Ưu tiên Anomaly: Mundo > Twitch",
+      "augmentsTip": "Core: Twitch, Mundo, Nunu, Elise, Morgana. Caps cao nhất với Caitlyn 2 và Leblanc 2 itemized. Đặt Sion và Elise về phía carry của đối phương. Ưu tiên Anomaly: Mundo > Twitch",
       "carousel": [
         {
           "apiName": "TFT_Item_GuinsoosRageblade",
@@ -7358,7 +7358,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Sentinel và Tristana 2. Tăng lại kinh tế. Hoàn thành 3 món đồ Tristana."
+          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Sentinel và Tristana 2. Tăng lại kinh tế. Hoàn thành 3 vật phẩm Tristana."
         },
         {
           "stage": "Giai đoạn 4",
@@ -7570,7 +7570,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và tung Ziggs 2 + Scrap và nâng cấp tiền tuyến. Nếu bạn có nhiều bản sao Ziggs, bạn có thể tung chậm ở cấp 6 nếu không thì tăng kinh tế ở cấp 7."
+          "tip": "Lên cấp 6 và tung Ziggs 2 + Scrap và nâng cấp tiền tuyến. Nếu bạn có nhiều bản sao Ziggs, bạn có thể tung chậm ở cấp 6 nếu không thì tăng kinh tế lên cấp 7."
         },
         {
           "stage": "Giai đoạn 4",
@@ -7788,7 +7788,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Đập các vật phẩm có nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
+          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Tấn công các vật phẩm có nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
         },
         {
           "stage": "Giai đoạn 3",
@@ -11032,7 +11032,7 @@
           "id": "kecuvqdtyt86tw4"
         }
       ],
-      "augmentsTip": "Biến thể thử nghiệm của 6 Sorceror tập trung vào Mundo tank và Zyra carry. Mạnh mẽ với các phép tăng cường như Moonlight để đảm bảo nâng cấp Zyra. Giữa trận, nếu tuyến trước của bạn mạnh, bạn có thể chơi Swain 2 backline carry cho đến khi bạn chạm trán Leblanc. Ưu tiên Anomaly: Tank > Carry.",
+      "augmentsTip": "Biến thể thử nghiệm của 6 Sorceror tập trung vào Mundo tank và Zyra carry. Mạnh mẽ với các phép tăng cường như Moonlight để đảm bảo nâng cấp Zyra. Giữa trận, nếu tiền tuyến của bạn mạnh, bạn có thể chơi Swain 2 backline carry cho đến khi bạn chạm trán Leblanc. Ưu tiên Anomaly: Tank > Carry.",
       "carousel": [
         {
           "apiName": "TFT_Item_SpearOfShojin",
@@ -11411,7 +11411,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8, tung xúc xắc để lấy Ezreal, Corki và 4 Sentinel. Lên cấp 9 khi bạn ổn định ở cấp 8. Nếu bạn giàu, bạn có thể giữ thêm Ezreal để cuối cùng đạt 3*."
+          "tip": "Lên cấp 8, tung xúc xắc để lấy Ezreal, Corki và 4 Sentinel. Đẩy cấp 9 khi bạn ổn định ở cấp 8. Nếu bạn giàu, bạn có thể giữ thêm Ezreal để cuối cùng đạt 3*."
         }
       ],
       "title": "Bão Ezreal",
