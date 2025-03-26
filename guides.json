@@ -1318,7 +1318,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy mất các đơn vị Chem Baron khỏi vòng quay."
+          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy các đơn vị Chem Baron bị mất tích."
         },
         {
           "stage": "Giai đoạn 3",
@@ -3115,7 +3115,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8, tung xúc xắc cho Heimer và Corki. Điểm mạnh của đội hình này là có một bảng đấu giá rẻ + nâng cấp + vật phẩm có thể lên cấp 9. Luôn chơi Jayce và sử dụng Hextech Forge cho tuyến đầu. Lên cấp với Rumble 2."
+          "tip": "Lên cấp 8, tung xúc xắc cho Heimer và Corki. Điểm mạnh của đội hình này là có một bảng đấu giá rẻ + nâng cấp + vật phẩm có thể lên cấp 9. Luôn chơi Jayce và sử dụng Hextech Forge cho tuyến đầu. Kết hợp với Rumble 2."
         }
       ],
       "title": "Học viện Sentinel",
@@ -3518,7 +3518,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Watcher và Tristana 2. Tăng lại Econ. Bạn sẽ thắng hầu hết các trận đấu ở Giai đoạn 3."
+          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Watcher và Tristana 2. Tăng Econ. Bạn sẽ thắng hầu hết các trận đấu ở Giai đoạn 3."
         },
         {
           "stage": "Giai đoạn 4",
@@ -7788,7 +7788,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Đập các vật phẩm có nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
+          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Đập các vật phẩm nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
         },
         {
           "stage": "Giai đoạn 3",
@@ -9570,7 +9570,7 @@
           "id": "qtahcilkp9rdkxy"
         }
       ],
-      "augmentsTip": "Biến thể Steb Hero Augment của 6 Bruiser. Chơi biến thể này khi bạn không thể đánh trúng biểu tượng Enforcer. Nếu bạn đang tụt hậu và không đủ khả năng tăng cấp với 5 chi phí, hãy cân nhắc việc đuổi theo Renni hoặc Nunu 3* làm tank phụ. Ưu tiên Anomaly: Steb 4* (Ultimate Hero)",
+      "augmentsTip": "Biến thể Steb Hero Augment của 6 Bruiser. Chơi biến thể này khi bạn không thể đánh trúng biểu tượng Enforcer. Nếu bạn đang tụt lại phía sau và không đủ khả năng tăng cấp với 5 chi phí, hãy cân nhắc việc đuổi theo Renni hoặc Nunu 3* làm tank phụ. Ưu tiên Anomaly: Steb 4* (Ultimate Hero)",
       "carousel": [
         {
           "apiName": "TFT_Item_Bloodthirster",
@@ -10180,7 +10180,7 @@
           "id": "hp8qq1562dqopt7"
         }
       ],
-      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang thắng liên tiếp. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
+      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang winstreaking. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
       "carousel": [
         {
           "apiName": "TFT_Item_BlueBuff",
@@ -10316,7 +10316,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8 và tìm Heimer càng sớm càng tốt để có 6 Visionary. Rút tiền và lý tưởng nhất là tung Renni 3 và Heimer 2 ở cấp 8. Nếu xa Renni 3, hãy tung 9 cho Nami/6 chi phí và Malzahar."
+          "tip": "Lên cấp 8 và tìm Heimer càng sớm càng tốt để có 6 Visionary. Rút tiền và lý tưởng nhất là tung Renni 3 và Heimer 2 ở 8. Nếu xa Renni 3, hãy tung 9 cho Nami/6 chi phí và Malzahar."
         }
       ],
       "title": "Những người có tầm nhìn xa trông rộng về Chem Baron",
@@ -11403,7 +11403,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi người mở đầu Sentinel được nâng cấp với đội hình hậu vệ kết hợp (Pháp sư, Pháo thủ, Xạ thủ, Người có tầm nhìn, v.v.). Người mở đầu Academy mạnh nhất khi dẫn trước về vật phẩm."
+          "tip": "Chơi Sentinel mở đầu được nâng cấp với đội hình hàng sau kết hợp (Sorcerer, Artillerist, Sniper, Visionaries, v.v.). Academy mở đầu mạnh nhất để dẫn trước về vật phẩm."
         },
         {
           "stage": "Giai đoạn 3",
