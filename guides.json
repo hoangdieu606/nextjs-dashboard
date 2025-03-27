@@ -418,7 +418,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Nâng cấp lên 4 Pit Fighter nếu bạn chưa nâng cấp. Nâng cấp lên 6 để nâng cấp nếu cần, nếu không hãy tích lũy để nâng cấp lên Fast 8."
+          "tip": "Nâng cấp lên 4 Pit Fighter nếu bạn chưa nâng cấp. Tăng lên 6 để nâng cấp nếu cần, nếu không hãy tích lũy để nâng cấp lên Fast 8."
         },
         {
           "stage": "Giai đoạn 4",
@@ -621,7 +621,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy các đơn vị Chem Baron bị mất tích."
+          "tip": "Chơi chuỗi thua với 3 Chem Baron. Luôn luôn lấy mất các đơn vị Chem Baron khỏi vòng quay."
         },
         {
           "stage": "Giai đoạn 3",
@@ -1087,7 +1087,7 @@
           "tip": "Ở cấp 6 và hoàn thành các đơn vị 3* của bạn sau đó đẩy cấp để có 4 Sentinel. Bạn có thể tank bất kỳ Sentinel nào (Loris 3 > Illaoi 2 > Loris 2 > Rell > Leona). Chơi Rumble trên Irelia nếu không có Akali xếp chồng. Biểu tượng Sentinel cũng rất mạnh."
         }
       ],
-      "title": "Quickstrikers - Nocturne Akali",
+      "title": "Quickstrikers - Akali Nocturne",
       "updated": "2025-03-24 15:39:34.894Z"
     },
     {
@@ -2427,7 +2427,7 @@
           "id": "hp8qq1562dqopt7"
         }
       ],
-      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang thắng liên tiếp. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
+      "augmentsTip": "Mục tiêu lý tưởng là 300 cash out, nhưng bạn có thể cân nhắc 100 cash out nếu bạn đang winstreaking. Nếu bạn không thể có được Renni 3, hãy cân nhắc tank chính Rell 3. Ưu tiên bất thường: Tank > Heimer",
       "carousel": [
         {
           "apiName": "TFT_Item_BlueBuff",
@@ -2563,7 +2563,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8 và tìm Heimer càng sớm càng tốt để có 6 Visionary. Rút tiền và lý tưởng nhất là tung Renni 3 và Heimer 2 ở 8. Nếu xa Renni 3, hãy tung 9 cho Nami/6 chi phí và Malzahar."
+          "tip": "Lên cấp 8 và tìm Heimer càng sớm càng tốt để có 6 Visionary. Rút tiền và lý tưởng nhất là tung Renni 3 và Heimer 2 ở cấp 8. Nếu xa Renni 3, hãy tung 9 cho Nami/6 chi phí và Malzahar."
         }
       ],
       "title": "Những người có tầm nhìn xa trông rộng về Chem Baron",
@@ -3921,7 +3921,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8 và lăn xuống để có Ambessa và 6 Conqueror. Hãy cực kỳ linh hoạt và chơi xung quanh các nâng cấp của bạn. Có thể chơi Form Swapper, Black Rose, Pit Fighters, v.v. Lên cấp 9 với chi phí 5/6."
+          "tip": "Lên cấp 8 và lăn xuống để có Ambessa và Conqueror 6. Hãy cực kỳ linh hoạt và chơi xung quanh các nâng cấp của bạn. Có thể chơi Form Swapper, Black Rose, Pit Fighters, v.v. Lên cấp 9 với chi phí 5/6."
         }
       ],
       "title": "Chỉ huy & Chinh phục",
@@ -4360,7 +4360,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Lên cấp 8 và tung cho Twitch và 5 Experiment. Bạn ổn định khi đạt Mundo 2 và Twitch 2. Flex một AD duo carry khác (Corki, Vi, Ambessa, v.v.). Khi ổn định, hãy tung 9 với 5 chi phí."
+          "tip": "Lên cấp 8 và tung cho Twitch và 5 Experiment. Bạn ổn định khi đạt Mundo 2 và Twitch 2. Flex một AD duo carry khác (Corki, Vi, Ambessa, v.v.). Khi ổn định, tung 9 với 5 chi phí."
         }
       ],
       "title": "Thử nghiệm Twitch Flex",
@@ -6110,7 +6110,7 @@
           "tip": "Lên cấp 8 và tung xúc xắc để có 6 Sniper và tiền tuyến mạnh. Thông thường, bạn sẽ ổn định ở Mundo 2 / Elise 2 nhưng bạn có thể chơi Sentinels, Garen Watchers, v.v. Thay thế Blitz bằng Jayce sau."
         }
       ],
-      "title": "Xạ thủ Twitch",
+      "title": "Twitch Snipers",
       "updated": "2025-03-24 15:39:34.866Z"
     },
     {
@@ -8483,7 +8483,7 @@
           "tip": "Kết thúc Zeri 3* sau đó đẩy cấp và thêm 6 Sentinels. Kết thúc bằng Rumble trên Irelia và một cost mạnh khác là 5 hoặc 6."
         }
       ],
-      "title": "Zentinel (Zentinels)",
+      "title": "Zentinel (Thiên đường)",
       "updated": "2025-03-24 15:39:34.893Z"
     },
     {
@@ -10805,7 +10805,7 @@
         },
         {
           "stage": "Giai đoạn 4",
-          "tip": "Cấp độ cho 6 Watcher và các đơn vị hỗ trợ như Ekko, Scar và Garen. Bạn có thể gặp khó khăn khi có quá nhiều đơn vị cận chiến nên hãy cẩn thận không để quá đông."
+          "tip": "Cấp độ cho 6 Watcher và các đơn vị hỗ trợ như Ekko, Scar và Garen. Bạn có thể gặp khó khăn khi có quá nhiều đơn vị cận chiến nên hãy cẩn thận không nên quá đông."
         }
       ],
       "title": "Tháo găng tay ra",
@@ -11404,7 +11404,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Đập các vật phẩm nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
+          "tip": "Chơi xung quanh các đơn vị được nâng cấp không có sự phối hợp. Tấn công các vật phẩm có nhịp độ mạnh như Sunfire, Shred hoặc các vật phẩm tăng theo tốc độ tấn công."
         },
         {
           "stage": "Giai đoạn 3",
