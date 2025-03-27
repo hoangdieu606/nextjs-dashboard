@@ -418,7 +418,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Nâng cấp lên 4 Pit Fighter nếu bạn chưa nâng cấp. Nâng cấp lên 6 để nâng cấp nếu cần, nếu không hãy tích lũy để nâng cấp lên Fast 8."
+          "tip": "Nâng cấp lên 4 Pit Fighter nếu bạn chưa nâng cấp. Tăng lên 6 để nâng cấp nếu cần, nếu không hãy tích lũy để nâng cấp lên Fast 8."
         },
         {
           "stage": "Giai đoạn 4",
@@ -1299,7 +1299,7 @@
       "tips": [
         {
           "stage": "Giai đoạn 2",
-          "tip": "Chơi từ đầu Automata với vật phẩm Bow / Rod. Chọn vật phẩm tăng cường mạnh cho nhịp độ hoặc vật phẩm tăng cường kinh tế để tung lại."
+          "tip": "Chơi từ đầu Automata với vật phẩm Bow / Rod. Lấy vật phẩm tăng cường mạnh cho nhịp độ hoặc vật phẩm tăng cường kinh tế để tung lại."
         },
         {
           "stage": "Giai đoạn 3",
@@ -4128,7 +4128,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Watcher và Tristana 2. Tăng Econ. Bạn sẽ thắng hầu hết các trận đấu ở Giai đoạn 3."
+          "tip": "Lên cấp 6 và lăn xuống để nâng cấp tiền tuyến Watcher và Tristana 2. Tăng lại Econ. Bạn sẽ thắng hầu hết các trận đấu ở Giai đoạn 3."
         },
         {
           "stage": "Giai đoạn 4",
@@ -4202,7 +4202,7 @@
           "id": "fsrvr5jtcywpkvm"
         }
       ],
-      "augmentsTip": "Phần thưởng thử nghiệm: Biểu tượng > Mundo > Twitch > Urgot. Cuối game hãy tìm Warwick, 5 chi phí và Viktor. Bạn có thể giảm từ 5 Thử nghiệm ở Giai đoạn 5+ để nâng cấp 5 chi phí. Ưu tiên dị thường: Mundo > Twitch",
+      "augmentsTip": "Phần thưởng thử nghiệm: Biểu tượng > Mundo > Twitch > Urgot. Cuối game hãy tìm Warwick, 5 chi phí và Viktor. Bạn có thể giảm từ 5 Thử nghiệm ở Cấp độ 5+ để nâng cấp 5 chi phí. Ưu tiên dị thường: Mundo > Twitch",
       "carousel": [
         {
           "apiName": "TFT_Item_GuinsoosRageblade",
@@ -6110,7 +6110,7 @@
           "tip": "Lên cấp 8 và tung xúc xắc để có 6 Sniper và tiền tuyến mạnh. Thông thường, bạn sẽ ổn định ở Mundo 2 / Elise 2 nhưng bạn có thể chơi Sentinels, Garen Watchers, v.v. Thay thế Blitz bằng Jayce sau."
         }
       ],
-      "title": "Twitch Snipers",
+      "title": "Xạ thủ Twitch",
       "updated": "2025-03-24 15:39:34.866Z"
     },
     {
@@ -7634,7 +7634,7 @@
         },
         {
           "stage": "Giai đoạn 3",
-          "tip": "Lên cấp 6 và tung Ziggs 2 + Scrap và nâng cấp tiền tuyến. Nếu bạn có nhiều bản sao Ziggs, bạn có thể tung chậm ở cấp 6 nếu không thì tăng kinh tế lên cấp 7."
+          "tip": "Lên cấp 6 và tung Ziggs 2 + Scrap và nâng cấp tiền tuyến. Nếu bạn có nhiều bản sao Ziggs, bạn có thể tung chậm ở cấp 6 nếu không thì tăng kinh tế ở cấp 7."
         },
         {
           "stage": "Giai đoạn 4",
@@ -8122,7 +8122,7 @@
           "id": "1if56vehjo2jhoq"
         }
       ],
-      "augmentsTip": "Luôn cố gắng solo Darius ở tuyến đầu để đạt được giá trị kỹ năng tối đa cho đến Giai đoạn 5. Ưu tiên bất thường: Darius > Gánh vác.",
+      "augmentsTip": "Luôn cố gắng solo Darius ở tuyến đầu để đạt được giá trị kỹ năng tối đa cho đến Giai đoạn 5. Ưu tiên dị thường: Darius > Gánh vác.",
       "carousel": [
         {
           "apiName": "TFT_Item_Bloodthirster",
